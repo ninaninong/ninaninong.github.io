@@ -1,3 +1,14 @@
 h1 {
   color: blue;
+  font-size: 20 px;
+}
+
+p {
+  color:#09c;
+  font-size: 16 px;
+}
+
+li {
+  color: grey;
+  font-size: 16 px;
 }
