@@ -1,17 +1,23 @@
-.center {
-position: absolute;
-  top: 50%;
+.navbar {
+  margin-top: 600px;
   list-style-type: none;
-  text-align: center;
-  width: 50%;
-}
+  justify-content: center;
+  display: flex;
+  }
 
 li {
   display: inline;
   margin-right: 50px;
+  margin-top: 20px;
 }
 
 a {
   color: white;
   font-family: gotham;
+}
+
+body {
+  background-image: url(city2.jpg);
+  background-size: 100%;
+
 }
