@@ -1,16 +1,17 @@
-h1 {
-  color: blue;
-  font-size: 20 px;
+.center {
+position: absolute;
+  top: 50%;
+  list-style-type: none;
+  text-align: center;
+  width: 50%;
 }
-
-p {
-  color:#09c;
-  font-size: 16 px;
-  font-family: arial;
-}
-
 
 li {
-  color: grey;
-  font-size: 16 px;
+  display: inline;
+  margin-right: 50px;
+}
+
+a {
+  color: white;
+  font-family: gotham;
 }
