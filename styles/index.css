@@ -4,12 +4,13 @@
   justify-content: center;
   display: flex;
   font-weight: bold;
-  }
+  background-color: black;
+    }
 
 li {
-  display: inline;
-  margin-right: 50px;
+    margin-right: 50px;
   margin-top: -550px;
+display: inline;
 }
 
 a {
