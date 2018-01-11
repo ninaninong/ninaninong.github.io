@@ -9,11 +9,11 @@
 li {
   display: inline;
   margin-right: 50px;
-  margin-top: 20px;
+  margin-top: -550px;
 }
 
 a {
-  color: white;
+  color: navy-blue;
   font-family: gotham;
 }
 
