@@ -1,5 +1,25 @@
 h1 {
-  text-align: center;
+text-align: center;
+
+}
+.navbar {
+  margin-top: 600px;
+  list-style-type: none;
+  justify-content: center;
+  display: flex;
+  font-weight: bold;
+  background-color: black;
+    }
+
+li {
+    margin-right: 50px;
+  margin-top: -550px;
+display: inline;
+}
+
+a {
+  color: navy-blue;
+  font-family: gotham;
 }
 
 body {
