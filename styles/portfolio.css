@@ -3,6 +3,6 @@ h1 {
 }
 
 body {
-  background-image: url(../images/city2.jpg);
+  background-image: url(../images/city2.jpg);no repeat;
   background-size: 100%;
 }
